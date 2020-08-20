@@ -1,6 +1,6 @@
-function getA() {
-    console.log("我是原始分支的函数A");
+function getAA() {
+    console.log("我是原始分支的函数AA");
 }
-function getB() {
-    console.log("我是原始分支的函数B");
+function getC() {
+    console.log("我是原始分支的函数C");
 }
