@@ -1,6 +1,6 @@
 function getAA() {
     console.log("我是原始分支的函数AA");
 }
-function getC() {
+function getCC() {
     console.log("我是原始分支的函数C");
 }
